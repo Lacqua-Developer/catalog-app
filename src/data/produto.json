@@ -1,6 +1,12 @@
 {"Product": [
-    { "id": 1, "name": "Camiseta Sport", "categoryId": 1, "price": 20 },
-    { "id": 2, "name": "Bora Tracking", "categoryId": 2, "price": 30 }],
+    { "id": 1, "name": "Vestido Mocinha", "categoryId": 1, "price": 20,"imagem":"1.png" },
+    { "id": 2, "name": "Vestido Estampado", "categoryId": 1, "price": 20,"imagem":"2.png" },
+    { "id": 3, "name": "Camiseta Descolado", "categoryId": 1, "price": 20,"imagem":"3.png" },
+    { "id": 4, "name": "Vestido Listado", "categoryId": 1, "price": 20,"imagem":"4.png" },
+    { "id": 5, "name": "Conjunto Verão", "categoryId": 1, "price": 20,"imagem":"5.png" },
+    { "id": 6, "name": "Sapato Social", "categoryId": 2, "price": 20,"imagem":"6.png" },
+    { "id": 7, "name": "Tenis Passeio", "categoryId": 2, "price": 30,"imagem":"7.png" },
+    { "id": 8, "name": "Bota Tracking", "categoryId": 2, "price": 20 ,"imagem":"8.png"}],
  "Category":[   
      { "id": 1, "name": "Roupas"  },
      { "id": 2, "name": "Calçados"}]

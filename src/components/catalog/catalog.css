@@ -1,0 +1,13 @@
+.catalog{
+    position: absolute;
+    top: 40px;;
+}
+
+.imagem-cat{
+    height: 70px;
+}
+
+.flex-content{
+    display: flex;
+    justify-content: space-between;
+}
