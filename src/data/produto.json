@@ -1,0 +1,8 @@
+{"Product": [
+    { "id": 1, "name": "Camiseta Sport", "categoryId": 1, "price": 20 },
+    { "id": 2, "name": "Bora Tracking", "categoryId": 2, "price": 30 }],
+ "Category":[   
+     { "id": 1, "name": "Roupas"  },
+     { "id": 2, "name": "Calçados"}]
+
+}
