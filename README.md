@@ -32,4 +32,4 @@ npm start
 export DOCKER_BUILDKIT=1
 docker build -t catalog-app .
 
-OBS: Não foi possível fazer um teste utilizando o Docker porque minha maquina a instalação do docker está com problema.
+OBS: Não foi possível fazer um teste utilizando o Docker porque, na minha maquina a instalação do docker está com problema.
